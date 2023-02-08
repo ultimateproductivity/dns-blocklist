@@ -1,0 +1,2 @@
+# dns-blocklist
+dns-blocklist
