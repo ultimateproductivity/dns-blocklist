@@ -4,3 +4,4 @@
 ||youtube.com^$ctag=device_laptop
 ||telegram.com^$ctag=device_laptop
 ||meduza.com^$ctag=device_laptop
+||ozon.com^$ctag=device_laptop
