@@ -3,3 +3,4 @@
 ||wildberries.ru^$ctag=device_laptop
 ||youtube.com^$ctag=device_laptop
 ||telegram.com^$ctag=device_laptop
+||meduza.com^$ctag=device_laptop
