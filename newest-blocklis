@@ -1,8 +1,8 @@
 @@||*^$client=127.0.0.1
 ||reddit.com^$client='Laptop'
 ||wildberries.ru^$client='Laptop'
-@@||youtube.com/@AfternoonBreak^$client='Laptop'
-@@||youtube.com/@metacognitiveattentiontraining^$client='Laptop'
+@@||youtube.com/@AfternoonBreak^$client='Laptop',important
+@@||youtube.com/@metacognitiveattentiontraining^$client='Laptop',important
 ||youtube.com^$client='Laptop'
 ||telegram.com^$client='Laptop'
 ||meduza.io^$client='Laptop'
