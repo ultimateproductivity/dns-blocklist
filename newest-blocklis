@@ -2,6 +2,8 @@
 ||reddit.com^$client='Laptop'
 ||wildberries.ru^$client='Laptop'
 ||youtube.com^$client='Laptop'
+@@||https://www.youtube.com/@metacognitiveattentiontraining^$client='Laptop'
+@@||https://www.youtube.com/@AfternoonBreak^$client='Laptop'
 ||telegram.com^$client='Laptop'
 ||meduza.io^$client='Laptop'
 ||twitter.com^$client='Laptop'
